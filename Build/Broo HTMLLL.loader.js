@@ -1,4 +1,4 @@
-const buildPath = "Build/";
+const buildPath = "/";
 const baseFileName = "Broo HTMLLL";
 
 // Function to load and merge split files
